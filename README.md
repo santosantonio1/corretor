@@ -10,4 +10,6 @@ Funcionamento:
   
   -Essa estratégia de renomeação foi pensada para contornar a limitação da função
   system() que só aceita uma string como argumento.
-  
+
+
+Este projeto foi desenvolvido no início do segundo semestre, não possuia conhecimentos sobre estruturas de dados e afins. Foi feito por livre e espontânea vontade inspirando-se no professor, que corrigia os nossos trabalhos com seu corretor em java.
