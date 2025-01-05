@@ -15,7 +15,7 @@
 
 #define GCC_RET_VALUE   0
 #define COMPILER        "g++ "
-#define CFLAGS           " -std=c++23 "
+#define CFLAGS          " -std=c++23 "
 
 #define PROG_DIR        "Aluno"
 #define INPUT_DIR       "input"
